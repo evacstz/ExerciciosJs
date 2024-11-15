@@ -1,6 +1,6 @@
-let a = Number(prompt('Digite um número:'));
-let b = Number(prompt('Digite outro número:'));
-let c = Number(prompt('Digite mais um número:'));
+let a = Number(prompt('Digite uma nota:'));
+let b = Number(prompt('Digite outra nota:'));
+let c = Number(prompt('Digite mais uma nota:'));
 
 function calcularMedia(a, b, c) {
     return (a + b + c) / 3;
